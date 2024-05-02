@@ -73,7 +73,7 @@ class Person {
     setRadius(radius) {
       this.radius = radius;
     }
-  
+
     setColor(color) {
       this.color = color;
     }
